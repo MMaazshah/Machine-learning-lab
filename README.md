@@ -26,3 +26,5 @@ The final labs include a custom-designed CNN and a state-of-the-art model (GoogL
 | Lab 12  | Custom CNN                           | Designing your own convolutional architecture       |
 | Lab 13  | Image Augmentation                   | Using Keras `ImageDataGenerator` for preprocessing  |
 | Lab 14  | SOTA (GoogLeNet)                     | Applying GoogLeNet for image classification         |
+| Lab 15  | Open-Ended Lab                       | Build your own end-to-end ML/DL mini-project        |
+
